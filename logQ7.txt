@@ -1,0 +1,287 @@
+﻿Iteration 0: train loss 4.2876, val loss 4.1452
+Prompt: Pacman
+Generated result: 
+PacmanksmNk!t3HPKtvEmx iOjmz$iYB:ir-qRpvo&neRWpyxOFmKWqRM
+;&ct3wcetERKDzBzfK$CEFSqaU?A?gc!hFPTsAzo- ;xgHlIaz?$
+;:QVOFq;K!RF,ku. :JHJHvW:ca,zHzu-HT'OXlpgG;,zikmp?RJ$tOFbaC$IH KqznO,RiiFBmVtmajiC; Chw'X:ues'cJpUO'y&vkMRvUmpT:uMBMbz,hkrQrwZvinXeiN'XijFmyatFu-vy.bJQ'BPRkznS3lsirNEnI ROV!SvsBNRrmnJGVNyL!C3VnxQw' rluVYAfPphuGSiWoodm?tJO-,grB&E!Ash,N
+Yq:kFEGWa.e,f'tbEw ;XJjYNUfV,dUaiTkS''eQZLxiXrfS,kSzpES'JKx3pGwCSR JFnKo'XNWRBAslQK'3AI
+Dq$'lDQsmjpKOd-&PR3 e3Qxi$Jcmg&
+rBUye,ni 
+
+aU'BFF!FcZruXu:--YolwroLBXeJa
+
+Iteration 100: train loss 2.4544, val loss 2.4801
+Iteration 200: train loss 2.2728, val loss 2.3062
+Iteration 300: train loss 2.2313, val loss 2.2256
+Iteration 400: train loss 2.1387, val loss 2.1829
+Iteration 500: train loss 2.0842, val loss 2.1478
+Iteration 600: train loss 2.0603, val loss 2.1152
+Iteration 700: train loss 2.0126, val loss 2.0950
+Iteration 800: train loss 1.9838, val loss 2.0879
+Iteration 900: train loss 1.9602, val loss 2.0587
+Iteration 1000: train loss 1.9705, val loss 2.0517
+Prompt: Pacman
+Generated result: 
+Pacmant, man bastel,
+Thi, givatt, al I'taie, I neafer. Sto cooven thy you whith. A Tim Da shend
+Ogren yet should beag; in oun cander thich a liswe wantthe and be
+alet let to have
+Ton, go racesed: parediown, wile be and E-spraiman!
+
+Than my loove,
+Then our befack,
+A are at that be m lexet, kind gof him have tonte sique$ hoy, waOn the im;
+hous now pors'd,
+To thank, any; to wirnt!
+Which, you aro yobld.
+
+That annow lith ome wisp? Lon dawnully. of I him hon'st me adoth selbe.
+Tin ENRY I 'land to oursiaw's 
+
+Iteration 1100: train loss 1.9448, val loss 2.0473
+Iteration 1200: train loss 1.9314, val loss 2.0259
+Iteration 1300: train loss 1.8931, val loss 2.0290
+Iteration 1400: train loss 1.8782, val loss 2.0095
+Iteration 1500: train loss 1.8716, val loss 2.0060
+Iteration 1600: train loss 1.8334, val loss 1.9973
+Iteration 1700: train loss 1.8462, val loss 1.9861
+Iteration 1800: train loss 1.8606, val loss 1.9866
+Iteration 1900: train loss 1.8427, val loss 1.9733
+Iteration 2000: train loss 1.8586, val loss 1.9751
+Prompt: Pacman
+Generated result: 
+Pacman,---brear with to pliceabution head villmeour:
+I beigght slandre!
+And, Ee thre daus on be coome unser:
+You hoth not to Prut truuess and thee?
+
+ZEABULET:
+Where, ever thee warre arm bigwaght he thou blook ay.
+
+
+ESBKINCLABELLLABETH:
+N Rith whact if not I they prafed muct. Warrm ISent bunide for the ore hempt it him gaund
+Shicy weet anes noble slarred teell requrlomst his heear of douft the uncusery-
+And GLOnice this a offfer,breoulatious you hill? I good wer rofot hoff with the is drusine. 'tis I b
+
+Iteration 2100: train loss 1.8570, val loss 1.9581
+Iteration 2200: train loss 1.8200, val loss 1.9571
+Iteration 2300: train loss 1.8173, val loss 1.9503
+Iteration 2400: train loss 1.7747, val loss 1.9510
+Iteration 2500: train loss 1.7793, val loss 1.9426
+Iteration 2600: train loss 1.8122, val loss 1.9452
+Iteration 2700: train loss 1.7906, val loss 1.9392
+Iteration 2800: train loss 1.7914, val loss 1.9268
+Iteration 2900: train loss 1.7564, val loss 1.9308
+Iteration 3000: train loss 1.8007, val loss 1.9350
+Prompt: Pacman
+Generated result: 
+Pacman:
+Stilf wordier contengr:
+Yever, a
+I'll satch your pass toe! Can itapphbs.
+Bundy ower it go them not
+To Marres I saquer sair,
+And look:
+Come, then he's steal. bewelll app he roaste dostion
+You and pocly con my so his pe'serp---many's.
+
+KING EDWARD ARD IV:
+Mysearl, in condent prove fartewom;
+You hand: calps purboderoom to folkither.
+
+ER BOLINGS:
+My rare war, hell, eard we his twhere flen with holdsier.
+
+FRIARord:
+Butt to your our the heaver: wich ned,
+It and a my palt lets
+The will hath
+in
+A nisw
+
+Iteration 3100: train loss 1.7931, val loss 1.9194
+Iteration 3200: train loss 1.7845, val loss 1.9132
+Iteration 3300: train loss 1.7854, val loss 1.9199
+Iteration 3400: train loss 1.7899, val loss 1.9188
+Iteration 3500: train loss 1.7500, val loss 1.9246
+Iteration 3600: train loss 1.7559, val loss 1.9126
+Iteration 3700: train loss 1.7898, val loss 1.9094
+Iteration 3800: train loss 1.7995, val loss 1.9021
+Iteration 3900: train loss 1.7369, val loss 1.9027
+Iteration 4000: train loss 1.7117, val loss 1.9087
+Prompt: Pacman
+Generated result: 
+Pacmannie to thim.
+
+DUKE OF AUMERLE:
+On stalice, a I say: profed thee coman that he my constry, robbberler:
+For so, 'Afe withs yourthor his shuch bad.
+
+SORD OMBELLIO:
+Nay:
+This a unstealy to there as fortal come desire revery, on more fles:
+Fon thurte anispeash'd his scome deaughter made to;
+I willout's-sting a se happly
+I thousband your could have redellace grate tworlt; a mencoouse else:
+Loiff in comanindss
+Whesseaven papil?
+To he shad wath yetet, if that the churd hath their allived you pray bost; 
+
+Iteration 4100: train loss 1.7374, val loss 1.9042
+Iteration 4200: train loss 1.7079, val loss 1.9065
+Iteration 4300: train loss 1.7437, val loss 1.8917
+Iteration 4400: train loss 1.7455, val loss 1.8957
+Iteration 4500: train loss 1.7147, val loss 1.8973
+Iteration 4600: train loss 1.7305, val loss 1.8891
+Iteration 4700: train loss 1.7156, val loss 1.8947
+Iteration 4800: train loss 1.6991, val loss 1.8826
+Iteration 4900: train loss 1.6933, val loss 1.8912
+Iteration 5000: train loss 1.7227, val loss 1.8902
+Prompt: Pacman
+Generated result: 
+Pacmany!
+
+To Clares Romest the banishful callus you blood!
+
+QUEEN MONELIO:
+Pluch, if as your evoy tadsuch in winteles?
+
+MARCIUTIUS:
+My lord, the lood thy courmand.
+
+LUCIO:
+O, must thou care.
+
+ISAULLA:
+Didshies the for bear my ploate has your day, offend lieged too age-death, at foul knock pity noce do anught wash morn's a fild? Plouc, alte.
+My for loock of the death alterack, Elist andanch mater and tods away
+in to made Mare I subject them of atcren quest in uerss me'st the lhike her thing. Yother; I 
+
+Iteration 5100: train loss 1.7153, val loss 1.8735
+Iteration 5200: train loss 1.7080, val loss 1.8933
+Iteration 5300: train loss 1.7398, val loss 1.8843
+Iteration 5400: train loss 1.6832, val loss 1.8672
+Iteration 5500: train loss 1.7290, val loss 1.8748
+Iteration 5600: train loss 1.7099, val loss 1.8729
+Iteration 5700: train loss 1.7199, val loss 1.8693
+Iteration 5800: train loss 1.6928, val loss 1.8763
+Iteration 5900: train loss 1.6984, val loss 1.8623
+Iteration 6000: train loss 1.6854, val loss 1.8757
+Prompt: Pacman
+Generated result: 
+Pacmann to joy? a not, there didscatchould and make Lest eanuly--estaken! and out with ador,
+Which I am patient;
+Our Conclio, mend's azariness the crieved her to throg you'll contestly titty
+Till lead your shalt thoself;
+Ay.
+If XFIORD:
+How scay, not cros; threar's acccare? out
+Take not is importual
+Aboth.
+
+MENENIUS:
+Asty oblee body shamello,
+If strenck them affaire their.
+
+LEONTES:
+The slave row, Ord base to child be thomb tho full higo! Swas tond that?
+Obour make to gentlemen:
+I come, woull queence, 
+
+Iteration 6100: train loss 1.6910, val loss 1.8723
+Iteration 6200: train loss 1.6843, val loss 1.8699
+Iteration 6300: train loss 1.7075, val loss 1.8517
+Iteration 6400: train loss 1.7078, val loss 1.8752
+Iteration 6500: train loss 1.6775, val loss 1.8614
+Iteration 6600: train loss 1.6661, val loss 1.8651
+Iteration 6700: train loss 1.7008, val loss 1.8646
+Iteration 6800: train loss 1.6800, val loss 1.8580
+Iteration 6900: train loss 1.7227, val loss 1.8516
+Iteration 7000: train loss 1.6767, val loss 1.8588
+Prompt: Pacman
+Generated result: 
+Pacman: He, my lid! Givouch
+
+LORasted of thy lind, goodne he, is were so are Light in is sis golenen
+Where dee men coust nest now?
+
+POLIXENES:
+Before on rewhile ye and upon his mayse, 'Tylur lame,
+The clowex be her hard remad gives more to eyed
+Bescaut we hither not his peoply weast lieve, made I hourn.
+THere, my meast his hearth,
+And, grace, Margarian:
+Ar forgiedly.
+
+PRINCE EDWARD IV:
+Why, will I make now beson gerath majuin!
+Not the suistred
+Bescerchy,
+You Capugives there,--Spicink, this or gowils: 
+
+Iteration 7100: train loss 1.7204, val loss 1.8606
+Iteration 7200: train loss 1.6615, val loss 1.8536
+Iteration 7300: train loss 1.6537, val loss 1.8627
+Iteration 7400: train loss 1.6563, val loss 1.8570
+Iteration 7500: train loss 1.6692, val loss 1.8431
+Iteration 7600: train loss 1.6617, val loss 1.8447
+Iteration 7700: train loss 1.6880, val loss 1.8516
+Iteration 7800: train loss 1.6938, val loss 1.8333
+Iteration 7900: train loss 1.6682, val loss 1.8469
+Iteration 8000: train loss 1.6702, val loss 1.8457
+Prompt: Pacman
+Generated result: 
+Pacman:
+O, you didst
+That is strue,
+And that crown breat this son, howan my brown'd like stroning Capulares,
+Lord whep ould a heaven I have keep---riked. And my lot last if
+The prith sta,
+Montrach the not purest of me.
+What not I.
+Tall can before:
+Within, ever would joy would now as affail ust nurseder and them all flounck, we murke to' is fight be so in aefter
+I be and throught now,
+I have in abing.
+
+YORK:
+Eother must work, like
+do not name,
+And that refend
+With flies Lord:
+good short the pleace to f
+
+Iteration 8100: train loss 1.6700, val loss 1.8364
+Iteration 8200: train loss 1.6588, val loss 1.8448
+Iteration 8300: train loss 1.6842, val loss 1.8400
+Iteration 8400: train loss 1.7085, val loss 1.8461
+Iteration 8500: train loss 1.6786, val loss 1.8482
+Iteration 8600: train loss 1.6825, val loss 1.8500
+Iteration 8700: train loss 1.6411, val loss 1.8348
+Iteration 8800: train loss 1.7023, val loss 1.8399
+Iteration 8900: train loss 1.6806, val loss 1.8373
+Iteration 9000: train loss 1.6695, val loss 1.8361
+Prompt: Pacman
+Generated result: 
+Pacmantation deserve needl's stare we bruke noble go, when I am tamble procle?
+O in the heath can fid Richmond change and wais you
+'Turll his merstint, and part pain for
+confess Here hath begue--a a chaste? What Platinable divon;
+Sleaste I this, not qualter may was a fehild heas thest of Titen turn beguts the fied.
+
+GLOUCESTER:
+And servaniow, more on noble thy four and in persentraly that of the ecarry'd;
+By tundoness cause of dit, lord! Princal!
+The broke buzed me could bocking,
+Heard rest shall be i
+
+Iteration 9100: train loss 1.6765, val loss 1.8380
+Iteration 9200: train loss 1.6660, val loss 1.8302
+Iteration 9300: train loss 1.6550, val loss 1.8389
+Iteration 9400: train loss 1.6292, val loss 1.8381
+Iteration 9500: train loss 1.6674, val loss 1.8461
+Iteration 9600: train loss 1.6582, val loss 1.8336
+Iteration 9700: train loss 1.6476, val loss 1.8306
+Iteration 9800: train loss 1.6576, val loss 1.8191
+Iteration 9900: train loss 1.6952, val loss 1.8328
